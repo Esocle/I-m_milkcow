@@ -7,7 +7,7 @@
 Yolov5 + MetricLearning
 
 - 개체인식모델(yolov5)을 사용하여 소인지 아닌지 판단 후, 어떤 젖소인지 인식
-- 
+
 ![image](https://user-images.githubusercontent.com/91296140/208429838-e41d8186-4033-4b84-a94c-e9d35a5c2da9.png)
 
 
