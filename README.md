@@ -4,10 +4,11 @@
 
 Yolov5 + MetricLearning
 
-![image](https://user-images.githubusercontent.com/91296140/208429670-6aadb520-09ea-4588-83aa-263f265ee831.png)
-
 - 개체인식모델(yolov5)을 사용하여 소인지 아닌지 판단 후, 어떤 젖소인지 인식
 ![image](https://user-images.githubusercontent.com/91296140/208429838-e41d8186-4033-4b84-a94c-e9d35a5c2da9.png)
+
+
+<img width="2120" alt="2차프젝 메뉴" src="https://user-images.githubusercontent.com/91296140/208430521-f7b87a90-84b6-4f82-8114-28b9aca2c480.png">
 
 * 광주인공지능사관학교 핵심역량프로젝트
 
