@@ -14,5 +14,6 @@ Yolov5 + MetricLearning
 <img width="2120" alt="2차프젝 메뉴" src="https://user-images.githubusercontent.com/91296140/208430521-f7b87a90-84b6-4f82-8114-28b9aca2c480.png">
 
 
+* 용량 때문에 yolov5 파일 제외하고 업로드(github 참조)
 
 © 2022 Esocle shbae1207@gmail.com
