@@ -1,10 +1,11 @@
 # I'm milkcow(내가 젖소)
 
+## Yolov5 + MetricLearning
+
 * 광주인공지능사관학교 실전역량프로젝트
 
 객체 탐지 모델과 Metric Learning을 활용한 반문 분석 기반 젖소 개체 인식 앱서비스
 
-Yolov5 + MetricLearning
 
 - 개체인식모델(yolov5)을 사용하여 소인지 아닌지 판단 후, 어떤 젖소인지 인식
 
